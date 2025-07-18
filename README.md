@@ -5,6 +5,7 @@
 - 📫 How to reach me: Email me at mohammed.s.alraee@gmail.com
 - ⚡ Fun fact: I automate repetitive tasks to reduce manual effort, save costs, and let businesses operate smoothly—even while you sleep.
 
+#JavaScript, Python, LangChain, Next.js, Vercel, OpenAI, HuggingFace, API, N8N, Make, Zapier.  
 <p align="center">
   <a href="https://python.org" title="Python">
     <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" />
